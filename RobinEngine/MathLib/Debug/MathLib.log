@@ -1,0 +1,11 @@
+﻿  matrix3.cpp
+  vector2.cpp
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(100,68): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(111,86): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(115,25): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(116,25): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(125,22): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(133,24): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\KMU_USER\Desktop\CS200\RobinEngine\MathLib\vector2.cpp(134,24): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  MathLib.vcxproj -> C:\Users\KMU_USER\Desktop\CS200\RobinEngine\Debug\MathLib.lib
